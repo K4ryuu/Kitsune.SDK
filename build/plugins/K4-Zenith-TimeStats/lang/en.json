@@ -1,0 +1,25 @@
+{
+  "k4.general.prefix": "{silver}[{gold}TimeStats{silver}]",
+  
+  "timestats.notification": " {silver}Your total playtime on the server is {gold}{0}{silver}. We appreciate your time spent with us!",
+  "timestats.center.title": "+ Playtime Statistics +",
+  "timestats.center.total.label": "Total:",
+  "timestats.center.teams.label": "Teams:",
+  "timestats.center.teams.value": "T: {0} | CT: {1}",
+  "timestats.center.spectator.label": "Spectator:",
+  "timestats.center.status.label": "Status:",
+  "timestats.center.status.value": "Alive: {0} | Dead: {1}",
+  "timestats.time.format": "{0}d {1}h {2}m",
+
+  "settings.ShowPlaytime": "PlayTime Notifications",
+
+  "timestats.chat.title": " {lime}{0}{silver}'s Playtime Statistics",
+  "timestats.chat.total": " {grey}--- {silver}Total Playtime: {lime}{0}",
+  "timestats.chat.teams": " {grey}--- {silver}Team Playtime: {red}T: {0}{silver}, {blue}CT: {1}",
+  "timestats.chat.spectator": " {grey}--- {silver}Spectator Time: {grey}{0}",
+  "timestats.chat.status": " {grey}--- {silver}Status: {green}Alive: {0}{silver}, {darkred}Dead: {1}",
+
+  "timestats.today.title": "+ Today's Playtime +",
+  "timestats.today.chat.title": " {lime}{0}{silver}'s Today's Playtime",
+  "timestats.today.chat.playtime": " {grey}--- {silver}Today's Playtime: {lime}{0}"
+}

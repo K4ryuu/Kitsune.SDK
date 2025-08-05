@@ -1,0 +1,57 @@
+{
+  "k4.general.prefix": "{silver}[{gold}Stats{silver}]",
+  "k4.general.loading": "{yellow}Please wait, your data is loading...",
+  "k4.stats.stats_disabled": "{silver}Statistics are disabled. Minimum {gold}{0} {silver}players required.",
+  
+  "k4.stats.title": "Player Statistics",
+  "k4.stats.show_all": "Show All Statistics",
+  "k4.stats.no_stats": "No statistics available",
+  
+  "k4.stats.kd": "K/D Ratio",
+  "k4.stats.kda": "K/D/A Ratio", 
+  "k4.stats.kpr": "Kills per Round",
+  "k4.stats.accuracy": "Accuracy",
+  "k4.stats.win_rate": "Win Rate",
+  
+  "k4.stats.kills": "Kills",
+  "k4.stats.first_blood": "First Blood",
+  "k4.stats.deaths": "Deaths",
+  "k4.stats.assists": "Assists",
+  "k4.stats.shoots": "Shots Fired",
+  "k4.stats.hits_taken": "Hits Taken",
+  "k4.stats.hits_given": "Hits Given",
+  "k4.stats.headshots": "Headshots",
+  "k4.stats.grenades": "Grenades",
+  "k4.stats.mvp": "MVP Awards",
+  
+  "k4.stats.head_hits": "Head Hits",
+  "k4.stats.chest_hits": "Chest Hits", 
+  "k4.stats.stomach_hits": "Stomach Hits",
+  "k4.stats.left_arm_hits": "Left Arm Hits",
+  "k4.stats.right_arm_hits": "Right Arm Hits",
+  "k4.stats.left_leg_hits": "Left Leg Hits",
+  "k4.stats.right_leg_hits": "Right Leg Hits",
+  "k4.stats.neck_hits": "Neck Hits",
+  "k4.stats.gear_hits": "Gear Hits",
+  
+  "k4.stats.round_win": "Rounds Won",
+  "k4.stats.round_lose": "Rounds Lost",
+  "k4.stats.game_win": "Games Won",
+  "k4.stats.game_lose": "Games Lost",
+  "k4.stats.rounds_overall": "Total Rounds",
+  "k4.stats.rounds_ct": "CT Rounds",
+  "k4.stats.rounds_t": "T Rounds",
+  
+  "k4.stats.bomb_planted": "Bombs Planted",
+  "k4.stats.bomb_defused": "Bombs Defused",
+  "k4.stats.hostage_rescued": "Hostages Rescued",
+  "k4.stats.hostage_killed": "Hostages Killed",
+  
+  "k4.stats.no_scope_kill": "No Scope Kills",
+  "k4.stats.penetrated_kill": "Penetration Kills",
+  "k4.stats.thru_smoke_kill": "Through Smoke Kills",
+  "k4.stats.flashed_kill": "Flashed Kills",
+  "k4.stats.dominated_kill": "Domination Kills",
+  "k4.stats.revenge_kill": "Revenge Kills",
+  "k4.stats.assist_flash": "Flash Assists"
+}

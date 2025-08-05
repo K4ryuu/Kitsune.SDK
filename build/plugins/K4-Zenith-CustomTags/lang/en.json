@@ -1,0 +1,14 @@
+{
+  "k4.general.prefix": "{silver}[{gold}CustomTags{silver}]",
+  "k4.general.loading": "{yellow}Please wait, your data is loading...",
+  "customtags.menu.title": "Select Your Tag",
+  "customtags.menu.default": "Default (Highest Priority)",
+  "customtags.menu.none": "None (Remove Tags)",
+  "customtags.tag_applied": "Tag '{0}' has been applied successfully!",
+  "customtags.default_applied": "Default tag has been applied successfully!",
+  "customtags.tags_removed": "All tags have been removed.",
+  "customtags.configs_reloaded": "Tag configurations have been reloaded.",
+  "customtags.disabled": "Tag system is disabled for your account.",
+  "customtags.no_tags_available": "No tags are available for you.",
+  "customtags.loading": "Please wait while your data is being loaded..."
+}
